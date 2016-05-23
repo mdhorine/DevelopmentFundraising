@@ -233,9 +233,6 @@
             <quickActionName>Account.npsp__New_Address</quickActionName>
         </quickActionListItems>
         <quickActionListItems>
-            <quickActionName>FeedItem.ContentPost</quickActionName>
-        </quickActionListItems>
-        <quickActionListItems>
             <quickActionName>npsp__NewTask</quickActionName>
         </quickActionListItems>
         <quickActionListItems>
