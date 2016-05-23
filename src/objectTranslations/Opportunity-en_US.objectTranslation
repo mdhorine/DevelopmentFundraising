@@ -824,13 +824,6 @@
         </sections>
     </layouts>
     <layouts>
-        <layout>Opportunity Layout</layout>
-        <sections>
-            <label><!-- Custom Links --></label>
-            <section>Custom Links</section>
-        </sections>
-    </layouts>
-    <layouts>
         <layout>Prospect Layout</layout>
         <sections>
             <label><!-- Donation Information --></label>
