@@ -204,9 +204,6 @@
     </layoutSections>
     <quickActionList>
         <quickActionListItems>
-            <quickActionName>FeedItem.TextPost</quickActionName>
-        </quickActionListItems>
-        <quickActionListItems>
             <quickActionName>Opportunity.npsp__Quick_Update</quickActionName>
         </quickActionListItems>
         <quickActionListItems>
