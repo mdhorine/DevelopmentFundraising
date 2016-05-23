@@ -265,21 +265,6 @@
         <businessProcess>Donation Process</businessProcess>
         <label>Donor</label>
         <picklistValues>
-            <picklist>DeliveryInstallationStatus__c</picklist>
-            <values>
-                <fullName>Completed</fullName>
-                <default>false</default>
-            </values>
-            <values>
-                <fullName>In progress</fullName>
-                <default>false</default>
-            </values>
-            <values>
-                <fullName>Yet to begin</fullName>
-                <default>false</default>
-            </values>
-        </picklistValues>
-        <picklistValues>
             <picklist>ForecastCategoryName</picklist>
             <values>
                 <fullName>Best Case</fullName>
