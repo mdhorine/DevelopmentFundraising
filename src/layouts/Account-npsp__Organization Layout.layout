@@ -278,9 +278,6 @@
     </layoutSections>
     <quickActionList>
         <quickActionListItems>
-            <quickActionName>FeedItem.TextPost</quickActionName>
-        </quickActionListItems>
-        <quickActionListItems>
             <quickActionName>npsp__NewContact</quickActionName>
         </quickActionListItems>
         <quickActionListItems>
@@ -288,9 +285,6 @@
         </quickActionListItems>
         <quickActionListItems>
             <quickActionName>Account.npsp__New_Affiliation</quickActionName>
-        </quickActionListItems>
-        <quickActionListItems>
-            <quickActionName>FeedItem.ContentPost</quickActionName>
         </quickActionListItems>
         <quickActionListItems>
             <quickActionName>npsp__NewTask</quickActionName>
