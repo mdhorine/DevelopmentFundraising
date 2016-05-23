@@ -116,9 +116,6 @@
     </layoutSections>
     <quickActionList>
         <quickActionListItems>
-            <quickActionName>FeedItem.TextPost</quickActionName>
-        </quickActionListItems>
-        <quickActionListItems>
             <quickActionName>npe03__Recurring_Donation__c.npe03__Quick_Update</quickActionName>
         </quickActionListItems>
         <quickActionListItems>
