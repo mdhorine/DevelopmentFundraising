@@ -122,9 +122,6 @@
             <quickActionName>npe03__Recurring_Donation__c.npe03__New_Opportunity</quickActionName>
         </quickActionListItems>
         <quickActionListItems>
-            <quickActionName>FeedItem.ContentPost</quickActionName>
-        </quickActionListItems>
-        <quickActionListItems>
             <quickActionName>npe03__NewNote</quickActionName>
         </quickActionListItems>
         <quickActionListItems>
